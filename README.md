@@ -1,6 +1,7 @@
-# NFA-Design-Exercises-1
+# CS3110 | NFA Design Exercises
 
-- CS3110 Assignment
-- Designed 5 NFA's using JFLAP
-- Provided a set of test strings saved in a (.txt) file following JFLAP formatting requirements
-- Provided image of the each design the problem's respective (.md) file along with test strings.
+- This repo contains 5 NFA Designs made using JFLAP
+
+- Provides a set of test strings saved in a text (.txt) file following JFLAP formatting requirements.
+
+- Provides images of each design in a markdown (.md) file along with test strings.
